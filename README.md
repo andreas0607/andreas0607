@@ -1,6 +1,6 @@
 ![Andreas Moldskred](https://github.com/andreas0607/andreas0607/blob/master/Github%20profile.jpg?raw=true)
 📫 How to reach me:
-  ⚪ **Digiprof:** andreas@digiprof.no ⚫ **Ignite:** andreas.moldskred@ignite.no
+  ⚪ **Digiprof:** andreas@digiproff.no ⚫ **Ignite:** andreas.moldskred@ignite.no
 
 <!--
 **andreas0607/andreas0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
